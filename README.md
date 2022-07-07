@@ -1,7 +1,7 @@
-# High Park (GitHub page)
-ORMGP fact sheet of Bedrock Hydrogeology at High Park
+# Boston Mills (GitHub page)
+ORMGP fact sheet of Bedrock at Boston-Mills
 
-site is published at https://owrc.github.io/HighPark/
+site is published at https://owrc.github.io/Boston-Mills/
 
 
-edit document [here](https://github.com/OWRC/highpark/blob/main/index.md)
+edit document [here](https://github.com/OWRC/Boston-Mills/blob/main/index.md)
