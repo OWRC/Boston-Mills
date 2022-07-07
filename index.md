@@ -6,7 +6,6 @@ date: 2022-07-07
 output: html_document
 ---
 # Introduction
-random
 ![*Figure 1: Location of Boston-Mills*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%20mill%20cover.png)
 _Figure 1: Location of Boston-Mills_
 
