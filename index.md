@@ -6,6 +6,7 @@ date: 2022-06-15
 output: html_document
 ---
 # Introduction
+random
 ![*Figure 1: Location of High Park*](https://github.com/OWRC/HighPark/blob/main/images/Figure1.png)
 _Figure 1: Location of High Park_
 
