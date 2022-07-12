@@ -24,7 +24,7 @@ _Figure 3: Boston-Mills borehole location_
 ![*Figure 4: Seismic reflection survey being cunducted along Airport Road*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%20seismic.jpg)
 _Figure 4: Seismic reflection survey being cunducted along Airport Road_
 
-![*Figure 5: Interpreted regional bedrock topography.*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure4Laurentianriver.webp)
+![*Figure 5: Interpreted regional bedrock topography.*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%203.png)
 _Figure 5: Interpreted regional bedrock topography. Blue shading delineates the interpreted Laurentian valley. Figure from Davies et al.2008_
 
 ![*Figure 5: Interpreted Bedrock*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure5bedrocktop.webp)
