@@ -27,6 +27,7 @@ _Figure 4: Seismic reflection survey being cunducted along Airport Road_
 ![*Figure 5: Interpreted regional bedrock topography.*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%203.png)
 _Figure 5: Interpreted regional bedrock topography. Blue shading delineates the interpreted Laurentian valley. Figure from Davies et al.2008_
 
+
 ![*Figure 5: Interpreted Bedrock*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure5bedrocktop.webp)
 _Figure 5: Interpreted bedrock topography for south central Ontario_
 
