@@ -1,5 +1,5 @@
 ---
-title:Boston-Mills Fact Sheet
+title: Boston-Mills Fact Sheet
 description: Description of the bedrock hydrogeologic setting in the Boston-Mills Area (Caledon East bedrock valley)
 author: Oak Ridges Moraine Groundwater Program
 date: 2022-07-07
