@@ -49,3 +49,5 @@ _Figure 7: Cross section location along Caledon East buried bedrock valley_
 ![*Figure 8: West-East cross section*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%206.png)
 
 _Figure 8: West-East cross section along the Caledon East buried bedrock valley showing interpreted thickness of basal channel aquifer (shown as Scarborough aquifer complex.)_
+
+Here is a simple footnote[^1].
