@@ -33,3 +33,6 @@ _Figure 5: Interpreted regional bedrock topography. Blue shading delineates the 
 
 _Figure 6: Interpreted local bedrock topography. Figure from Davies et al. 2008_
 
+![*Figure 7: Cross section Location*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%203%20(1).png)
+
+_Figure 7: Cross section location along Caledon East buried bedrock valley_
