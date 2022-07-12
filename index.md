@@ -30,5 +30,6 @@ _Figure 5: Interpreted regional bedrock topography. Blue shading delineates the 
 
 
 ![*Figure 6: Interpreted Bedrock*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure5bedrocktop.webp)
+
 _Figure 6: Interpreted local bedrock topography. Figure from Davies et al. 2008_
 
