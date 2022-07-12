@@ -21,7 +21,7 @@ The Boston Mills monitoring well is screened within a 20m thick sand and gravel 
 ![*Figure 3: Boston-Mills borehole location*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%201.png)
 _Figure 3: Boston-Mills borehole location_
 
-![*Figure 4: Seismic reflection survey being cunducted along Airport Road*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)
+![*Figure 4: Seismic reflection survey being cunducted along Airport Road*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%20seismic.jpg)
 _Figure 4: Seismic reflection survey being cunducted along Airport Road_
 
 ![*Figure 4: Laurentian River*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure4Laurentianriver.webp)
