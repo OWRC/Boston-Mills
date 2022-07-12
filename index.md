@@ -60,6 +60,3 @@ You can also use words, to fit your writing style more closely[^note].
 
 
 [^2]:Spencer, J.W. 1881.  Discovery of the preglacial outlet of the basin of Lake Erie into that of Lake Ontario.  Canadian Naturalist, 10, 65-79.​
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
