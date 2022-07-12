@@ -18,13 +18,11 @@ A borehole was drilled and a well installed at this location in 2006 as part of 
 
 The Boston Mills monitoring well is screened within a 20m thick sand and gravel unit (150 to 171 mbgs) situated above shale bedrock.  The interpreted thickness and extent of this basal aquifer (shown as the Scarborough aquifer complex) is illustrated on Figure 5 and Figure 6.
 
-Details regarding the sediment stratigraphy within the Laurentian valley and groundwater movement within the feature remain sketchy despite the valley having been known for over 100 years (Spencer, 1881; 1890). These details are collected and incorporated into the latest interpretation as data becomes available. 
-
 ![*Figure 3: Boston-Mills borehole location*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%201.png)
 _Figure 3: Boston-Mills borehole location_
 
-![*Figure 3: Northeast Corner of Hight Park*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)
-_Figure 3: Northeast corner of High Park_
+![*Figure 4: Seismic reflection survey being cunducted along Airport Road*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)
+_Figure 4: Seismic reflection survey being cunducted along Airport Road_
 
 ![*Figure 4: Laurentian River*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure4Laurentianriver.webp)
 _Figure 4: Interpreted Laurentian river system (Figure from Coleman, 1922)_
