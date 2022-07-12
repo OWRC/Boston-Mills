@@ -21,8 +21,10 @@ The Boston Mills monitoring well is screened within a 20m thick sand and gravel 
 ![*Figure 3: Boston-Mills borehole location*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%201.png)
 _Figure 3: Boston-Mills borehole location_
 
+
 ![*Figure 4: Seismic reflection survey being cunducted along Airport Road*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%20seismic.jpg)
 _Figure 4: Seismic reflection survey being cunducted along Airport Road_
+
 
 ![*Figure 5: Interpreted regional bedrock topography.*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%203.png)
 
@@ -33,9 +35,11 @@ _Figure 5: Interpreted regional bedrock topography. Blue shading delineates the 
 
 _Figure 6: Interpreted local bedrock topography. Figure from Davies et al. 2008_
 
+
 ![*Figure 7: Cross section Location*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%20fig%205%20(1).png)
 
 _Figure 7: Cross section location along Caledon East buried bedrock valley_
+
 
 ![*Figure 8: West-East cross section*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%206.png)
 
