@@ -50,11 +50,7 @@ _Figure 7: Cross section location along Caledon East buried bedrock valley_
 
 _Figure 8: West-East cross section along the Caledon East buried bedrock valley showing interpreted thickness of basal channel aquifer (shown as Scarborough aquifer complex.)_
 
-[^1].
 
-[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
 
 [^1]:Spencer, J.W. 1890.  Origin of the basins of the Great Lakes of America.  American Geologist, 7, 86-97.​
 
