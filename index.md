@@ -20,8 +20,8 @@ The Boston Mills monitoring well is screened within a 20m thick sand and gravel 
 
 Details regarding the sediment stratigraphy within the Laurentian valley and groundwater movement within the feature remain sketchy despite the valley having been known for over 100 years (Spencer, 1881; 1890). These details are collected and incorporated into the latest interpretation as data becomes available. 
 
-![*Figure 3: Boston-Mills borehole location*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure2highparkareaoftoronto.webp)
-_Figure 2: High Park Area of Toronto_
+![*Figure 3: Boston-Mills borehole location*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%201.png)
+_Figure 3: Boston-Mills borehole location_
 
 ![*Figure 3: Northeast Corner of Hight Park*](https://raw.githubusercontent.com/OWRC/HighPark/main/images/figure3northeastcornerhighpark.webp)
 _Figure 3: Northeast corner of High Park_
