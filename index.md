@@ -19,7 +19,7 @@ A borehole was drilled and a well installed at this location in 2006 as part of 
 The Boston Mills monitoring well is screened within a 20m thick sand and gravel unit (150 to 171 mbgs) situated above shale bedrock.  The interpreted thickness and extent of this basal aquifer (shown as the Scarborough aquifer complex) is illustrated on Figure 5 and Figure 6.
 
 # Documents
-YPDT-CAMC Boston Mills borehole log [Download pdf]​
+YPDT-CAMC Boston Mills borehole log [Download pdf](https://raw.githubusercontent.com/OWRC/Boston-Mills/main/PDFS/BostonMills%20BH.jpg)​
 
 Davies, S.D., S. Holysh and D.R. Sharpe.  2008.  An investigation of the buried bedrock valley aquifer system in the Caledon East area, Southern Ontario.  Ontario Geological Survey, Groundwater Resources Study 9, 42p. [Download pdf]
 
