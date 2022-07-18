@@ -23,30 +23,30 @@ YPDT-CAMC Boston Mills borehole log [Download pdf]​
 
 Davies, S.D., S. Holysh and D.R. Sharpe.  2008.  An investigation of the buried bedrock valley aquifer system in the Caledon East area, Southern Ontario.  Ontario Geological Survey, Groundwater Resources Study 9, 42p. [Download pdf]
 
-![*Figure 3: Boston-Mills borehole location*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%201.png)
+![*Figure 3: Boston-Mills borehole location*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston_1.png)
 _Figure 3: Boston-Mills borehole location_
 
 
-![*Figure 4: Seismic reflection survey being cunducted along Airport Road*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%20seismic.jpg)
+![*Figure 4: Seismic reflection survey being cunducted along Airport Road*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston_seismic.jpg)
 _Figure 4: Seismic reflection survey being cunducted along Airport Road_
 
 
-![*Figure 5: Interpreted regional bedrock topography.*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%203.png)
+![*Figure 5: Interpreted regional bedrock topography.*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston_3.png)
 
 _Figure 5: Interpreted regional bedrock topography. Blue shading delineates the interpreted Laurentian valley. Figure from Davies et al.2008_
 
 
-![*Figure 6: Interpreted Bedrock*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%203%20(1).png)
+![*Figure 6: Interpreted Bedrock*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston_4.png)
 
 _Figure 6: Interpreted local bedrock topography. Figure from Davies et al. 2008_
 
 
-![*Figure 7: Cross section Location*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%20fig%205%20(1).png)
+![*Figure 7: Cross section Location*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston_5.png)
 
 _Figure 7: Cross section location along Caledon East buried bedrock valley_
 
 
-![*Figure 8: West-East cross section*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%206.png)
+![*Figure 8: West-East cross section*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston_6.png)
 
 _Figure 8: West-East cross section along the Caledon East buried bedrock valley showing interpreted thickness of basal channel aquifer (shown as Scarborough aquifer complex.)_
 
