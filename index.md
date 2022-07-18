@@ -6,10 +6,10 @@ date: 2022-07-07
 output: html_document
 ---
 # Boston-Mills
-![*Figure 1: Location of Boston-Mills*](https://raw.githubusercontent.com/OWRC/Boston-Mills/main/Images/boston_mill_cover.png)
+[*Figure 1: Location of Boston-Mills*](https://raw.githubusercontent.com/OWRC/Boston-Mills/main/Images/boston_mill_cover.png)
 _Figure 1: Location of Boston-Mills_
 
-[*Figure 2: Aerial photo of Boston-Mills*](Images/boston_aerial.jpg)
+![*Figure 2: Aerial photo of Boston-Mills*](Images/boston_aerial.jpg)
 _Figure 2: Aerial photo of Boston-Mills_
 
 # Background
