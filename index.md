@@ -9,7 +9,7 @@ output: html_document
 ![*Figure 1: Location of Boston-Mills*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston_mill_cover.png)
 _Figure 1: Location of Boston-Mills_
 
-![*Figure 2: Aerial photo of Boston-Mills*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston%20aerial.jpg)
+![*Figure 2: Aerial photo of Boston-Mills*](https://github.com/OWRC/Boston-Mills/blob/main/Images/boston_aerial.jpg)
 _Figure 2: Aerial photo of Boston-Mills_
 
 # Background
