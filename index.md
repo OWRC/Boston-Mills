@@ -5,7 +5,6 @@ author: Oak Ridges Moraine Groundwater Program
 date: 2022-07-07
 output: html_document
 ---
-# Boston-Mills
 ![*Figure 1: Location of Boston-Mills*](Images/boston_mill_cover.png)
 _Figure 1: Location of Boston-Mills_
 
