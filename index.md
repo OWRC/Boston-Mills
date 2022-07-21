@@ -26,8 +26,8 @@ Davies, S.D., S. Holysh and D.R. Sharpe.  2008.  An investigation of the buried 
 _Figure 3: Boston-Mills borehole location_
 
 
-![*Figure 4: Seismic reflection survey being cunducted along Airport Road*](Images/boston_seismic.jpg)
-_Figure 4: Seismic reflection survey being cunducted along Airport Road_
+![*Figure 4: Seismic reflection survey being conducted along Airport Road*](Images/boston_seismic.jpg)
+_Figure 4: Seismic reflection survey being conducted along Airport Road_
 
 
 ![*Figure 5: Interpreted regional bedrock topography.*](Images/boston_3.png)
